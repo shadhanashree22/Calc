@@ -174,7 +174,8 @@ h2{
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-04-30 134208.png>)
+![alt text](<Screenshot 2024-04-30 134825.png>) 
+![alt text](<Screenshot 2024-04-30 134834.png>)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
